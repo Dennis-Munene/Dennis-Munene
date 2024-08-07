@@ -1,4 +1,5 @@
-                   <HI> Hi there 👋 I am Dennis Munene 😀</HI>
+                              Hi there 👋 I am Dennis Munene 😀
+                              A Software Developer ✨ based in 🌍 Nairobi, Kenya 🇰🇪.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dennis-Munene)](https://github.com/anuraghazra/github-readme-stats)
