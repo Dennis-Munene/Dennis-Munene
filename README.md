@@ -1,10 +1,3 @@
-Hi there 👋 I am Dennis Munene 😀
-                              
-
-A Software Developer ✨ based in 🌍 Nairobi, Kenya 🇰🇪.
-
-
-I write codes to solve real-world problems. I enjoy helping others on their coding journeys and sharing knowlegde. Let's build something amazing together!
 
 
 <h1 align="center">Hi there 👋 , I am Dennis Munene 😀</h1>
