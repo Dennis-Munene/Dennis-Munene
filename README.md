@@ -1,8 +1,9 @@
-                              Hi there 👋 I am Dennis Munene 😀
+Hi there 👋 I am Dennis Munene 😀
                               
 
 
 A Software Developer ✨ based in 🌍 Nairobi, Kenya 🇰🇪.
+I write codes to solve real-world problems. I enjoy helping others on their coding journeys and sharing knowlegde. Let's build something amazing together!
 
 <!--
 **Dennis-Munene/Dennis-Munene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
