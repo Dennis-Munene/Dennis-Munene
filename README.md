@@ -1,8 +1,8 @@
                               Hi there 👋 I am Dennis Munene 😀
-                              A Software Developer ✨ based in 🌍 Nairobi, Kenya 🇰🇪.
+                              
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dennis-Munene)](https://github.com/anuraghazra/github-readme-stats)
+A Software Developer ✨ based in 🌍 Nairobi, Kenya 🇰🇪.
 
 <!--
 **Dennis-Munene/Dennis-Munene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
